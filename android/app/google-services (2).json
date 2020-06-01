@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331422257230",
+    "firebase_url": "https://banjir-rescue-2.firebaseio.com",
+    "project_id": "banjir-rescue-2",
+    "storage_bucket": "banjir-rescue-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331422257230:android:e4dd4f46d43baab450b31f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331422257230-c82raeo1t1j4bjt02d6i3eump9r25m7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKi-jprJzGSsnkZDv42uzzoNCaG9iAg3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331422257230-c82raeo1t1j4bjt02d6i3eump9r25m7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
